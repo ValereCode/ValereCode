@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valere SETODJI
 - 👀 I’m interested in any software programming
 - 🌱 I’m currently learning Angular, flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building mobile and web applications
 - 📫 Reach me on setodji2001@gmail.com
 
 <!---
