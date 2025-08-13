@@ -5,7 +5,7 @@ I'm a Student and Software Engineer passionate about technology and innovation. 
 <!-- Complete the following sections to personalize your profile! -->
 
 ## 🚀 Interests
-- <!-- List your primary technical interests or research areas (e.g., AI, Web Development, Mobile Apps, Cloud Computing, etc.) -->
+<!-- List your primary technical interests or research areas (e.g., AI, Web Development, Mobile Apps, Cloud Computing, etc.) -->
 - Web Development
 - Mobile Apps
 
