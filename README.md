@@ -13,7 +13,7 @@ I'm a Student and Software Engineer passionate about technology and innovation. 
 - **Languages:**  C#, JavaScript, Python, Dart, Typescript
 - **Frameworks:** ASP.NET, React, Flutter, Angular, Node, FastAPI...
 - **Databases:** SQL Server, MongoDB, PostgreSQL ...
-- **Other:** Docker, Git, Azure
+- **Other:** Docker, Git, Azure, Firebase
 
 <!--
 ## 💼 Projects
