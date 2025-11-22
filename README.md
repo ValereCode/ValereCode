@@ -34,6 +34,7 @@ I'm a Student and Software Engineer passionate about technology and innovation. 
 -  Specify if you are looking for collaborations, internships, open source, etc. -->
 
 ## 📫 How to Reach Me
+- Website: https://setodjivalere.web.app/
 - Email: setodji2001@gmail.com
 - LinkedIn: www.linkedin.com/in/valère-setodji-79767a255
 - Twitter: https://x.com/data_sciences_
